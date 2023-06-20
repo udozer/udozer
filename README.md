@@ -1,3 +1,2 @@
 Hi I'm Stephen Udo.
-I'm a data analyst and currently learning web development.
-I love sports, good food and travelling.
+I'm passionate about data analytics and skilled in python, sql, data visualization and database management. Leveraging these tools to derive meaningful insights and drive informed decision making.
